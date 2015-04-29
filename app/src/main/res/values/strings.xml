@@ -8,7 +8,10 @@
     <string name="action_greet">Greet</string>
     <string name="action_listView">ListView</string>
     <string name="title_activity_greeting">GreetingActivity</string>
-
+    <string name="detail">Details of Coach</string>
+    <string name="wait">Please wait</string>
+    <string name="data">Getting Info</string>
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_data_listing">DataListingActivity</string>
+    <string name="title_activity_coach_details">Coach Details</string>
 </resources>

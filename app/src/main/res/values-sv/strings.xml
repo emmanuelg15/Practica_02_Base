@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Praxis_01_Base</string>
+
+    <string name="txtTitle">Praxis 01 Meny</string>
+    <string name="btnGreetTitle">Gimme klick!</string>
+    <string name="btnListViewTitle">visa detaljer</string>
+    <string name="action_settings">konfiguration</string>
+    <string name="action_greet">hälsa</string>
+    <string name="action_listView">ListView</string>
+    <string name="detail">detaljer de Tränare</string>
+    <string name="wait">Vänligen vänta ett ögonblick</string>
+    <string name="data">Få information</string>
+</resources>

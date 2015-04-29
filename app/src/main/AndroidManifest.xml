@@ -22,7 +22,11 @@
             android:label="@string/title_activity_greeting"></activity>
         <activity
             android:name="com.cetys.angelarambula.android.practica_02_base.view.DataListingActivity"
-            android:label="@string/title_activity_data_listing"></activity>
+            android:label="@string/title_activity_data_listing" />
+        <activity
+            android:name="com.cetys.angelarambula.android.practica_02_base.view.CoachDetails"
+            android:label="@string/title_activity_coach_details" >
+        </activity>
     </application>
 
 </manifest>

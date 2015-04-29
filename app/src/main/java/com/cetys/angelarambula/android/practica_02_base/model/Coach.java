@@ -1,11 +1,13 @@
 package com.cetys.angelarambula.android.practica_02_base.model;
 
+import java.io.Serializable;
+
 /**
  * Created by AngelArambula on 4/13/15.
  */
 //POJO
 //Plain Old Java Object
-public class Coach {
+public class Coach implements Serializable {
     private int nID;
     private String sName;
     private String sTeam;

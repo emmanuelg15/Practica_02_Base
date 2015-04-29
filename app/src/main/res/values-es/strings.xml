@@ -8,4 +8,7 @@
     <string name="action_settings">Configuración</string>
     <string name="action_greet">Saludar</string>
     <string name="action_listView">ListView</string>
+    <string name="detail">Detalles de Entrenador</string>
+    <string name="wait">Espere un momento por favor</string>
+    <string name="data">Obteniendo Informacion</string>
 </resources>
